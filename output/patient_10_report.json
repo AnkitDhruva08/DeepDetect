@@ -1,0 +1,51 @@
+{
+  "patient_id": 10,
+  "latest_snapshot": {
+    "date": "2025-09-01",
+    "time": "22:30",
+    "heartRate": 56,
+    "bloodPressureSystolic": 122,
+    "bloodPressureDiastolic": 61,
+    "temperature": 98.9,
+    "oxygenSaturation": 95,
+    "sleepHours": 5.5,
+    "stepsCount": 3272,
+    "feelingTired": 6,
+    "stressLevel": 9,
+    "mood": "neutral",
+    "painLevel": 2,
+    "energyLevel": 1,
+    "symptoms": [
+      "Fatigue"
+    ],
+    "notes": "",
+    "entry_id": "7c7fbad8-3fa3-45fe-bb88-b8deb13d2949",
+    "patient_id": 10,
+    "created_at": "2025-09-01T22:30:00",
+    "risk_label": "low"
+  },
+  "ml_prediction": {
+    "label": "medium",
+    "proba": [
+      0.295,
+      0.365,
+      0.34
+    ]
+  },
+  "dl_prediction": {
+    "label": "high",
+    "proba": [
+      0.33456316590309143,
+      0.32346418499946594,
+      0.341972678899765
+    ]
+  },
+  "suggestions": [
+    "Fatigue: rest, hydration; if persistent, seek clinician (investigate anemia, thyroid, sleep).",
+    "Non-pharmacologic care: rest, hydration, humidifier, honey for cough (age >1), saline nasal rinses.",
+    "Important: these are categories only. Do NOT take new prescription medications without clinician recommendation. For children, pregnant people, or complex medical histories consult a clinician/pharmacist first."
+  ],
+  "urgent": false,
+  "visualization": "output/patient_10_vitals.png",
+  "generated_at": "2025-09-02T13:58:36.460193"
+}

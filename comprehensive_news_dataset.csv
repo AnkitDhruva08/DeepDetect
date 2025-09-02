@@ -1,0 +1,56 @@
+text,label,category,text_length,word_count,char_count,avg_word_length,stopword_count,punctuation_count,hashtag_count,mention_count,digit_count,uppercase_word_count,exclamation_count,caps_ratio
+Peer-reviewed research published in Science journal demonstrates new carbon capture technology efficiency improvements.,0,Politics/Economy,119,13,107,8.23076923076923,1,2,0,0,0,0,0,0.01680672268907563
+Clinical trial results show promising outcomes for new Alzheimer's treatment in phase two testing.,0,Politics/Economy,98,14,85,6.071428571428571,2,2,0,0,0,0,0,0.02040816326530612
+Geological survey reveals previously unknown mineral deposits with potential technological applications in electronics.,0,Politics/Economy,119,13,107,8.23076923076923,2,1,0,0,0,0,0,0.008403361344537815
+Marine biologists document recovery of coral reef ecosystems following conservation intervention programs.,0,Politics/Economy,106,12,95,7.916666666666667,1,1,0,0,0,0,0,0.009433962264150943
+Astrophysicists confirm detection of gravitational waves from neutron star collision using advanced instrumentation.,0,Politics/Economy,116,13,104,8.0,2,1,0,0,0,0,0,0.008620689655172414
+Scientists at MIT have developed a new renewable energy technology that could revolutionize solar power generation with 40% improved efficiency.,0,Politics/Economy,144,20,125,6.25,5,2,0,0,2,1,0,0.027777777777777776
+The Federal Reserve announced a quarter-point interest rate increase following the latest economic data showing steady inflation control.,0,Politics/Economy,137,18,120,6.666666666666667,3,2,0,0,0,0,0,0.021897810218978103
+"Local authorities report successful completion of the new public transportation project, connecting three major districts in the city.",0,Politics/Economy,134,18,117,6.5,4,2,0,0,0,0,0,0.007462686567164179
+Climate researchers publish findings in Nature journal showing accelerated ice melting in Antarctic regions over the past decade.,0,Politics/Economy,129,18,112,6.222222222222222,4,1,0,0,0,0,0,0.023255813953488372
+"The Supreme Court heard arguments today regarding privacy rights in digital communications, with a decision expected next quarter.",0,Politics/Economy,130,18,113,6.277777777777778,4,2,0,0,0,0,0,0.023076923076923078
+Medical researchers at Johns Hopkins University announce breakthrough in early detection methods for pancreatic cancer through blood tests.,0,Politics/Economy,139,18,122,6.777777777777778,4,1,0,0,0,0,0,0.02877697841726619
+International trade negotiations between allied nations continue as officials work toward mutually beneficial economic agreements.,0,Politics/Economy,130,15,116,7.733333333333333,2,1,0,0,0,0,0,0.007692307692307693
+NASA confirms successful deployment of the James Webb Space Telescope's latest observations revealing new exoplanet discoveries.,0,Politics/Economy,128,16,113,7.0625,2,2,0,0,0,1,0,0.0625
+Local school district implements new STEM education program with funding from state government and private technology partnerships.,0,Politics/Economy,131,17,115,6.764705882352941,3,1,0,0,0,1,0,0.03816793893129771
+Economic indicators suggest moderate growth in manufacturing sector as supply chain issues show signs of resolution.,0,Politics/Economy,116,16,101,6.3125,3,1,0,0,0,0,0,0.008620689655172414
+University researchers publish peer-reviewed study on sustainable agriculture practices reducing water consumption by 30%.,0,Politics/Economy,122,14,109,7.785714285714286,2,3,0,0,2,0,0,0.00819672131147541
+City council approves budget allocation for infrastructure improvements including road repairs and water system upgrades.,0,Politics/Economy,121,15,107,7.133333333333334,2,1,0,0,0,0,0,0.008264462809917356
+Health officials provide updated vaccination guidelines based on latest clinical trial data and epidemiological studies.,0,Politics/Economy,120,15,106,7.066666666666666,2,1,0,0,0,0,0,0.008333333333333333
+Technology companies announce collaborative effort to improve cybersecurity standards across critical infrastructure sectors.,0,Politics/Economy,125,13,113,8.692307692307692,1,1,0,0,0,0,0,0.008
+Environmental protection agency releases annual report showing measurable improvements in air quality in urban areas.,0,Politics/Economy,117,15,103,6.866666666666666,2,1,0,0,0,0,0,0.008547008547008548
+Federal investigators conclude comprehensive review of financial regulations affecting small business lending practices.,0,Science/Research,120,13,108,8.307692307692308,1,1,0,0,0,0,0,0.008333333333333333
+Archaeological team uncovers significant historical artifacts providing new insights into ancient Mediterranean civilizations.,0,Science/Research,126,13,114,8.76923076923077,1,1,0,0,0,0,0,0.015873015873015872
+Public health authorities confirm seasonal flu vaccination campaign reaches target coverage rates across vulnerable populations.,0,Science/Research,128,15,114,7.6,0,1,0,0,0,0,0,0.0078125
+Transportation department announces completion of highway safety improvements reducing traffic accidents by 25% in pilot areas.,0,Science/Research,127,16,112,7.0,3,2,0,0,2,0,0,0.007874015748031496
+Central bank officials indicate gradual approach to monetary policy adjustments based on employment and inflation metrics.,0,Science/Research,122,16,107,6.6875,3,1,0,0,0,0,0,0.00819672131147541
+Doctors discovered this one weird trick to cure diabetes naturally without medication or diet changes.,1,Sensational/Clickbait,102,15,88,5.866666666666666,3,1,0,0,0,0,0,0.00980392156862745
+Big pharma doesn't want you to know about this miracle plant that cures all diseases instantly.,1,Sensational/Clickbait,95,16,80,5.0,7,2,0,0,0,0,0,0.010526315789473684
+Shocking study reveals vaccines contain mind control chips implanted by secret organizations worldwide.,1,Sensational/Clickbait,103,13,91,7.0,1,1,0,0,0,0,0,0.009708737864077669
+Local mom discovers coffee ingredient that melts belly fat overnight while you sleep peacefully.,1,Sensational/Clickbait,96,14,83,5.928571428571429,3,1,0,0,0,0,0,0.010416666666666666
+Ancient Tibetan monks reveal secret breathing technique that adds 20 years to your lifespan.,1,Sensational/Clickbait,92,14,79,5.642857142857143,3,1,0,0,2,0,0,0.021739130434782608
+You'll never guess what this celebrity looks like now! The transformation will shock you completely!,1,Sensational/Clickbait,100,15,86,5.733333333333333,6,3,0,0,0,0,2,0.02
+This simple quiz reveals your exact death date! Take it before it gets banned forever!,1,Sensational/Clickbait,86,15,72,4.8,5,2,0,0,0,0,2,0.023255813953488372
+Homeless man turns out to be secret millionaire! His story will make you cry tears!,1,Sensational/Clickbait,83,15,69,4.6,6,2,0,0,0,0,2,0.024096385542168676
+Teachers hate her! Student discovers study method that guarantees perfect grades without effort!,1,Sensational/Clickbait,96,13,84,6.461538461538462,1,2,0,0,0,0,2,0.020833333333333332
+This optical illusion reveals your true personality! Share with friends to compare results!,1,Sensational/Clickbait,91,13,79,6.076923076923077,4,2,0,0,0,0,2,0.02197802197802198
+SHOCKING! Secret government experiment turns ordinary people into superhuman beings! Scientists don't want you to know this!,1,Sensational/Clickbait,124,17,108,6.352941176470588,4,4,0,0,0,1,3,0.08064516129032258
+BREAKING: Billionaire reveals one simple trick that made him rich overnight! Banks hate this method!,1,Sensational/Clickbait,100,15,86,5.733333333333333,3,3,0,0,0,1,2,0.1
+EXCLUSIVE: Aliens have been living among us for decades! Government finally admits the truth!,1,Sensational/Clickbait,93,14,80,5.714285714285714,4,3,0,0,0,1,2,0.11827956989247312
+MIRACLE CURE: Local grandmother discovers ancient remedy that cures cancer in 3 days! Doctors are furious!,1,Sensational/Clickbait,106,16,91,5.6875,3,3,0,0,1,2,2,0.12264150943396226
+URGENT: New law will take away your savings! Share this before it's too late!,1,Sensational/Clickbait,77,14,64,4.571428571428571,6,4,0,0,0,1,2,0.1038961038961039
+UNBELIEVABLE: Man loses 50 pounds in one week using this weird trick! Nutritionists are speechless!,1,Sensational/Clickbait,99,15,85,5.666666666666667,3,3,0,0,2,1,2,0.1414141414141414
+CONSPIRACY EXPOSED: Major food companies have been poisoning us for years! The truth revealed!,1,Sensational/Clickbait,94,14,81,5.785714285714286,4,3,0,0,0,2,2,0.20212765957446807
+INCREDIBLE: Woman wins lottery 7 times using this secret method! Officials want to ban it!,1,Sensational/Clickbait,90,15,76,5.066666666666666,2,3,0,0,1,1,2,0.13333333333333333
+DANGER: Your smartphone is slowly killing you! This device can save your life!,1,Sensational/Clickbait,78,13,66,5.076923076923077,5,3,0,0,0,1,2,0.10256410256410256
+AMAZING: Scientists discover fountain of youth in remote jungle! Age reversal possible!,1,Sensational/Clickbait,87,12,76,6.333333333333333,2,3,0,0,0,1,2,0.10344827586206896
+TERRIBLE NEWS: Economic collapse predicted for next month! Prepare yourself now!,1,Health/Medical,80,11,70,6.363636363636363,2,3,0,0,0,2,2,0.175
+REVOLUTIONARY: New energy device powers entire house for free! Energy companies are panicking!,1,Health/Medical,94,13,82,6.307692307692308,2,3,0,0,0,1,2,0.1595744680851064
+HORRIFYING: Deadly chemicals found in popular foods! Your family is at risk!,1,Health/Medical,76,12,65,5.416666666666667,4,3,0,0,0,1,2,0.15789473684210525
+BREAKING: Celebrity reveals shocking secret about Hollywood elite! You won't believe this!,1,Health/Medical,90,12,79,6.583333333333333,3,4,0,0,0,1,2,0.12222222222222222
+MIRACLE: Blind woman sees again after taking this natural supplement! Doctors can't explain it!,1,Health/Medical,95,14,82,5.857142857142857,3,4,0,0,0,1,2,0.09473684210526316
+EXPOSED: Social media giants are controlling your thoughts! Here's how to break free!,1,Entertainment/Viral,85,13,73,5.615384615384615,4,4,0,0,0,1,2,0.10588235294117647
+INCREDIBLE: Time traveler from 2050 warns about upcoming disaster! Government tries to silence him!,1,Entertainment/Viral,99,14,86,6.142857142857143,3,3,0,0,4,1,2,0.12121212121212122
+SHOCKING: Popular restaurant chain uses fake meat made from insects! Customers demand answers!,1,Entertainment/Viral,94,13,82,6.307692307692308,1,3,0,0,0,1,2,0.10638297872340426
+URGENT WARNING: New virus more dangerous than COVID spreading rapidly! Mainstream media ignores it!,1,Entertainment/Viral,99,14,86,6.142857142857143,2,3,0,0,0,3,2,0.20202020202020202
+AMAZING DISCOVERY: Lost city of Atlantis found! Archaeologists confirm ancient technology!,1,Entertainment/Viral,90,11,80,7.272727272727272,1,3,0,0,0,2,2,0.2111111111111111
